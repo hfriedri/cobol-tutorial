@@ -19,12 +19,15 @@
 10:13 - Compile / Run
 10:50 - Assign Values
 11:20 - Math / Compute
-=== .cbl
+
+=== 02-data-types-groups-math-compute.cbl
 13:42 - Variables / Datatypes
 15:45 - Group Item
 20:17 - Figurative Constants
 21:34 - Math Functions
 23:46 - Compute
+
+=== 03-ranges-boolean-if-else-logical-conditional-toggle-evaluate.cbl
 25:14 - Data Classification
 25:45 - Thru / Ranges
 26:40 - Boolean
@@ -35,36 +38,63 @@
 34:10 - Built In Classification
 34:55 - Toggle Values
 36:20 - Evaluate
+
+=== 04-paragraphs.cbl
 39:27 - Paragraphs
+
+=== 05-unterprogramme.cbl
 42:57 - Subroutines / Linkage
 44:25 - Call
+
+=== 06-while-for-varying.cbl
 45:43 - While
 47:08 - For / Varying
+
+=== 07-edited-pics.cbl
 48:37 - Edited Pictures
+
+=== 08-decimal-arithmetic.cbl
 52:55 - Decimal Arithmetic
+
+=== 09-string-functions.cbl
 55:39 - String Functions
 57:35 - Join Strings
 1:02:15 - Split String
+
+=== 10-write-to-file.cbl
 1:03:17 - Define Write to File
 1:07:54 - Open File
 1:09:01 - Write to File
+
+=== 11-append-to-file.cbl
 1:09:45 - Append to File
+
+=== 12-read-file.cbl
 1:11:40 - Read File
+
+=== 13-create-reports-filler.cbl
 1:13:45 - Create Reports
 1:16:25 - Filler
+
+=== 14-file-records-save-delete-update-get.cbl
 1:28:44 - Indexed Files
 1:31:12 - Access Data Randomly
 1:35:03 - Save Record
 1:36:40 - Delete Record
 1:37:45 - Update Record
 1:40:30 - Get Record
+
+=== 15-tables-multidim-index-search.cbl
 1:44:03 - Tables
 1:46:00 - Multidimensional Tables
 1:47:46 - Index Tables
 1:51:33 - Search Tables
+
+=== 16-prefill-tables-redefine-string-to-float.cbl
 1:53:05 - Prefill Tables
 1:54:10 - Redefine
 1:56:34 - String to Float
+
+=== 17-sort-records-merge-files.cbl
 1:59:38 - Sort Records
 2:03:55 - Merge Files
-2:07:38 - Install Windows
