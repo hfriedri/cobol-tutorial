@@ -1,0 +1,70 @@
+0:00 - Intro
+00:25 - Why is it Important
+01:35 - File Format
+
+=== 01-first-sample.cbl
+02:26 - Main Divisions
+02:58 - Identification Division
+03:20 - Environment Division
+03:34 - Data Division
+04:22 - Variables / Picture / Data
+05:57 - Group Item / Hierarchal
+07:33 - Constants
+07:47 - Figurative Constants
+07:55 - Comment
+08:54 - Procedure Division
+09:00 - Print to Screen
+09:25 - Accept Input
+09:56 - Stop Run
+10:13 - Compile / Run
+10:50 - Assign Values
+11:20 - Math / Compute
+=== .cbl
+13:42 - Variables / Datatypes
+15:45 - Group Item
+20:17 - Figurative Constants
+21:34 - Math Functions
+23:46 - Compute
+25:14 - Data Classification
+25:45 - Thru / Ranges
+26:40 - Boolean
+27:20 - Multiple Values
+28:52 - If / Else
+30:30 - Logical / Conditional Operators
+33:19 - Classification
+34:10 - Built In Classification
+34:55 - Toggle Values
+36:20 - Evaluate
+39:27 - Paragraphs
+42:57 - Subroutines / Linkage
+44:25 - Call
+45:43 - While
+47:08 - For / Varying
+48:37 - Edited Pictures
+52:55 - Decimal Arithmetic
+55:39 - String Functions
+57:35 - Join Strings
+1:02:15 - Split String
+1:03:17 - Define Write to File
+1:07:54 - Open File
+1:09:01 - Write to File
+1:09:45 - Append to File
+1:11:40 - Read File
+1:13:45 - Create Reports
+1:16:25 - Filler
+1:28:44 - Indexed Files
+1:31:12 - Access Data Randomly
+1:35:03 - Save Record
+1:36:40 - Delete Record
+1:37:45 - Update Record
+1:40:30 - Get Record
+1:44:03 - Tables
+1:46:00 - Multidimensional Tables
+1:47:46 - Index Tables
+1:51:33 - Search Tables
+1:53:05 - Prefill Tables
+1:54:10 - Redefine
+1:56:34 - String to Float
+1:59:38 - Sort Records
+2:03:55 - Merge Files
+2:07:38 - Install Windows
