@@ -14,6 +14,8 @@
        01  ADate                PIC 99/99/9999.
        PROCEDURE DIVISION.
            DISPLAY "StartNum     : " StartNum
+           DISPLAY "NoZero       : " NoZero
+           DISPLAY "NoZPlusC     : " NoZPlusC
            DISPLAY "BDay         : " BDay
            MOVE StartNum TO NoZero
            DISPLAY "NoZero       : " NoZero

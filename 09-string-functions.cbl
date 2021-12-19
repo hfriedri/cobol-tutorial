@@ -9,6 +9,7 @@
        01  SampStr              PIC X(18) VALUE 'eerie beef sneezed'.
        01  NumChars             PIC 99 VALUE 0.
        01  NumEs                PIC 99 VALUE 0.
+       01  NumEsBeforeF         PIC 99 VALUE 0.
        01  FName                PIC X(6) VALUE 'Martin'.
        01  MName                PIC X(11) VALUE 'Luther King'.
        01  LName                PIC X(4) VALUE 'King'.
@@ -25,6 +26,8 @@
            DISPLAY "Number of Characters : " NumChars.
            INSPECT SampStr TALLYING NumEs    FOR ALL 'e'.
            DISPLAY "Number of Es         : " NumEs.
+           INSPECT SampStr TALLYING NumEsBeforeF FOR ALL 'e' BEFORE 'f'.
+           DISPLAY "Number of Es before f: " NumEsBeforeF.
            DISPLAY FUNCTION UPPER-CASE(SampStr)
            DISPLAY FUNCTION LOWER-CASE(SampStr)
            STRING FName DELIMITED BY SIZE
